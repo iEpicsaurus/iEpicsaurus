@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Alex!  <img src="https://aleksandarkostic.me/images/linkedin-icon.png" width="35"/> </h1>
+<h1>👋 Hi, I'm Alex! <a href="https://www.linkedin.com/in/kostic-aleksandar"><img src="https://aleksandarkostic.me/images/linkedin-icon.png" width="35"/></a> </h1>
 
 - [My Website and Portfolio](https://aleksandarkostic.me/)
 - [My Resume](https://aleksandarkostic.me/aleksandar-kostic-resume.pdf)
